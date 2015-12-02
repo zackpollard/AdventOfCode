@@ -1,4 +1,4 @@
-var input = prompt("Please enter the Day 1 input.", "Enter input here...");
+var input = document.body.getElementsByTagName("pre")[0].innerHTML;
 
 var floor = 0;
 
